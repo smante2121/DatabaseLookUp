@@ -1,13 +1,11 @@
 # Phone Number Lookup Application
 
-This repository contains a Flask application that allows users to look up phone numbers and retrieve associated details. It showcases a user-friendly web interface for submitting and viewing phone number data. Below you will find details on the project structure, setup instructions, and usage.
+This repository contains a Flask application that allows users to look up phone numbers and retrieve associated details. It showcases a user-friendly web interface for submitting and viewing phone number data. Below you will find details on the project structure, setup instructions, and usage. 
 
 ## Features
 
 - **Interactive Web Forms**: Users can submit phone numbers through a web form to retrieve associated information.
-- **Responsive Web Design**: The application adapts to various device screen sizes, ensuring a consistent user experience across desktops, tablets, and mobile phones.
-- **Flask Backend**: The server-side logic is handled by Flask, providing a robust and scalable framework for web applications.
-- **Dynamic Content with Jinja2**: Templates are rendered using Jinja2, enabling dynamic content generation based on user inputs.
+
 
 ## Project Structure
 
